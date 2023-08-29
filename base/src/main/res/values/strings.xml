@@ -1,0 +1,7 @@
+<resources>
+    <string name="device_name">имя = %s</string>
+    <string name="device_id">deviceId = %s</string>
+    <string name="device_sources">источники = %s</string>
+    <string name="got_data">Полученные данные:</string>
+    <string name="devices">Устройства</string>
+</resources>
